@@ -29,4 +29,4 @@ Big-O gösterimini yazınız.
 
 O(nlogn)
 
-@www.patika.dev
+www.patika.dev
